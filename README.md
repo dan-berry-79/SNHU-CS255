@@ -1,6 +1,9 @@
 # SNHU-CS255
 CS-255 System Analysis and Design coursework featuring UML modeling and the DriverPass system design project.
 
+- [DriverPass — Business Requirements Document](CS%20255%20Business%20Requirements%20Document_Portfolio.pdf) — Functional and nonfunctional requirements, security considerations, system constraints, and project schedule.
+- [DriverPass — System Design Document](CS%20255%20System%20Design%20Document_Portfolio.pdf) — UML use case, activity, sequence, and class diagrams, along with technical requirements and security considerations.
+
 ## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The client for the DriverPass project was a company that wanted to provide students with online driver training and behind-the-wheel driving instruction. The system needed to allow customers to create accounts, purchase training packages, take practice tests, and schedule driving lessons. It also needed to support employees with different roles and access levels, maintain customer and appointment information, and receive updated testing information from the DMV.
 
